@@ -28,19 +28,6 @@ The project demonstrates how Python's special methods allow user-defined classes
 
 ---
 
-## Lab Exercise
-
-The repository also includes the **ShoppingCart** lab exercise, which combines multiple special methods into a single class to demonstrate their practical use.
-
-Implemented methods include:
-
-- `__init__()`
-- `__str__()`
-- `__len__()`
-- `__getitem__()`
-- `__setitem__()`
-- `__eq__()`
-- `__add__()`
 
 ---
 
