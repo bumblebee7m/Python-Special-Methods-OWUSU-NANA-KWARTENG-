@@ -80,7 +80,7 @@ After completing this notebook, you should be able to:
 
 ## Author
 
-**Name:** Nana Kwarteng
+**Name:** Owusu Nana Kwarteng
 
 **University:** University of Mines and Technology (UMaT)
 
